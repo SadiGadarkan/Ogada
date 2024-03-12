@@ -1,0 +1,4 @@
+{
+    "playerdir" : "./db/players/",
+    "worlddir" : "./db/worlds/"
+}
