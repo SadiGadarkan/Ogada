@@ -9,7 +9,7 @@ Ogada Scanner is a scanner that helps GTPS work to search for data or read files
 - [Rollback] (Change all Player items in Inventory, Change Player items in Inventory, Change all Dropped items in World)
 
 # Created for
-Ogada Scanner was created out of his own will and Borzxy is no longer active on GTPS, and Borzxy has its own code scanner scanner. So Borzxy and I will release the code that Borzxy has made to the public.
+Ogada Scanner was created out of his own will and BorzXy is no longer active on GTPS, and BorzXy has its own code scanner scanner. So BorzXy and I will release the code that BorzXy has made to the public.
 
 # What Ogada do?
 Ogada Scanner will help you to handle your own GTPS, like Reading User Information Data without Opening the User Data, Moderator Thing and More (Scanner, Rollback and Moderation
